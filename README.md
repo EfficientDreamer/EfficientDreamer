@@ -2,7 +2,7 @@
 EfficientDreamer: High-Fidelity and Robust 3D Creation via Orthogonal-view Diffusion Prior
 
 
-![](assets/teaser.jpg)
+![](assets/teaser.png)
 
 ## [Project page](https://efficientdreamer.github.io) | [Paper](https://arxiv.org/abs/2308.13223)
 
